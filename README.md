@@ -1,6 +1,6 @@
 # Topic Modeling Amazon Product Reviews
 ## Introduction
-For this individual project, you will use topic modeling to deliver marketing and product insights for a popular clothing and/or shoes company.
+For this individual project, i used topic modeling to deliver marketing and product insights for a popular clothing and/or shoes company.
 ## The Data
 Prof. Julian McAuley at UC-San Diego has graciously let me use his “Amazon Product Data (Links to an external site.)” database. It contains tons of data about Amazon products. Specifically, we will leverage two datasets: (1) meta-data about products and (2) product reviews. The aforementioned database has reviews on all types of Amazon products, but these datasets are huge (~80gb).
 
